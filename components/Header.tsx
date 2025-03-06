@@ -7,8 +7,8 @@ export default function Header() {
   return (
     <header className="flex justify-between items-center px-4 sm:px-8 py-4">
       <div className="flex items-center gap-2">
-        <Image src="/logo.svg" alt="BoltWallet" width={24} height={24} />
-        <span className="font-semibold">BoltWallet</span>
+        <Image src="/coins/polkadot.svg" alt="hardware-wallet" width={24} height={24} />
+        <span className="font-semibold">Hardwar-tWallet</span>
       </div>
       <div className="flex items-center gap-6">
         <nav className="hidden md:flex items-center gap-6">
